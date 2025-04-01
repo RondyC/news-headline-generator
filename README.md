@@ -26,7 +26,7 @@
 1. Клонируйте репозиторий:
 
    ```bash
-   git clone https://github.com/yourusername/your-repo-name.git
+   git clone https://github.com/RondyC/news-headline-generator/model.py
    cd your-repo-name
 Датасет скачивается автоматически с Google Drive. Код использует URL:
 https://drive.google.com/uc?id=1QLkXmuK-ul_4eAYKI-fRs7mXk1nIgtsL
